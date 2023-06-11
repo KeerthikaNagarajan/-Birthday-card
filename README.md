@@ -1,7 +1,17 @@
-# Exp -9 Create a Birthday card using HTML and CSS
-## Program:
-### card.html
-```
+# Ex-09:
+## Create a Birthday card using HTML and CSS
+### AIM:
+The aim of the provided HTML and CSS code is to create a birthday card with animations and a surprise gift.
+### ALGORITHM:
+1. Create HTML files: card.html, index.html, and link.html.
+2. Define CSS styles for various elements and animations.
+3. Customize the background images and text content in each HTML file.
+4. Use marquee tags, CSS animations, and image alignments to create dynamic effects.
+5. Add audio to the index.html file using the audio tag.
+6. Create a link to navigate from link.html to card.html and add a hovering animation effect to the image.
+### PROGRAM:
+#### card.html
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -94,7 +104,7 @@
 </html>
 ```
 ### index.html
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -184,7 +194,7 @@ body, html {
 
 ```
 ### link.html
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -217,21 +227,22 @@ body, html {
     </body>
 </html>
 ```
-## Output:
-### card.html
+### OUTPUT:
+#### card.html
 <img width="523" alt="image" src="https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/aa44bd9b-d62f-41de-9301-4c6ea8f2fb8d">
 
-### index.html
+#### index.html
 <img width="523" alt="image" src="https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/96e8df82-2e75-4960-affe-9881d6256b8f">
 
-### link.html
+#### link.html
 <img width="463" alt="image" src="https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/5a8bb6ed-c9a7-401f-b6e8-590df30c8983">
 
 <img width="464" alt="image" src="https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/a5ceea87-121c-409a-abad-a68eee962381">
 
 <img width="461" alt="image" src="https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/2722b747-4795-4bee-841c-e9efe20a4213">
 
-### Video:
+#### Video:
 https://github.com/KeerthikaNagarajan/Birthday-card/assets/93427089/48f72786-2584-477d-8f42-25694db245d7
 
-
+### RESULT:
+The code will provide a birthday card with animations and a surprise gift.
